@@ -1,0 +1,112 @@
+Package: longapple.github.io.iOS9KhWriteHand
+Name: iOS8-9.x.x KhWriteHand Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This fonts was created by ហ៊ុល ហ៊តហាប់.
+Homepage: https://www.facebook.com/cara.coco.9?fref=ts
+Maintainer: LongApple <https://www.facebook.com/cara.coco.9?fref=ts>
+Author: LongApple&ហ៊ុល ហ៊តហាប់ <https://www.facebook.com/cara.coco.9?fref=ts>
+Section: KhmerFonts Style
+Depends: firmware (>= 8.0) 
+Filename: ./boxes/KhmerWriteHand9.deb
+Size: 566258  
+MD5sum: dbbf30d747faee4bf36251ca5284c3a4
+
+Package: longapple.github.io.iconpack
+Name: LongApple iconpack
+Version: 1.0
+Architecture: iphoneos-arm
+Homepage: https://www.facebook.com/cara.coco.9?fref=ts
+Maintainer: LongApple <https://www.facebook.com/cara.coco.9?fref=ts>
+Author: LongApple <https://www.facebook.com/cara.coco.9?fref=ts>
+Description: iconpack of my repo!!
+Section: Themes
+Essential: yes
+Priority: required
+Filename: ./boxes/Iconpack.deb
+Size: 179376
+MD5sum: 542dbb3ccedd67eae62c2f0523086501
+
+Package: khmerfones.info.iOS9KhBrushHand
+Name: iOS8-9.x.x KhBrushHand Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This fonts was created by Bunly Soch.
+Homepage: https://www.facebook.com/cara.coco.9?fref=ts
+Maintainer: LongApple <https://www.facebook.com/cara.coco.9?fref=ts>
+Author: LongApple&Bunly <https://www.facebook.com/cara.coco.9?fref=ts>
+Section: KhmerFonts Style
+Depends: firmware (>= 9.0) 
+Filename: ./boxes/KhmerBrush9.deb
+Size: 503136
+MD5sum: 8554c1c3aba9147476018e1102d2b220
+
+Package: longapple.github.io.iOS9KhFastHand
+Name: iOS8-9.x.x KhFastHand Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This fonts was created by Samnang Nouv(Akbalthom)& Chamnap Chhun
+Homepage: https://www.facebook.com/cara.coco.9?fref=ts
+Maintainer: LongApple <https://www.facebook.com/cara.coco.9?fref=ts>
+Author: LongApple&Samnang(Akbalthom) <https://www.facebook.com/cara.coco.9?fref=ts>
+Section: KhmerFonts Style
+Depends: firmware (>= 8.0)
+Filename: ./boxes/FastHand9.deb
+Size: 531930
+MD5sum: 118b814caeecb42b32a624c6913b7399
+
+Package: longapple.github.io.iOS9KhHuySavy
+Name: iOS8-9.x.x KhHuySavy Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This fonts was created by Hee Savuy.
+Homepage: https://www.facebook.com/cara.coco.9?fref=ts
+Maintainer: LongApple <https://www.facebook.com/cara.coco.9?fref=ts>
+Author: HeeSavuy&LongApple <https://www.facebook.com/savouy.hee>
+Section: KhmerFonts Style
+Depends: firmware (>= 8.0) 
+Filename: ./boxes/KhmerHuySavy.deb
+Size: 475248
+MD5sum: ddd4b362ac219b60f234e98d1c64cfe5
+
+Package: longapple.github.io.iOS9KhTlok
+Name: iOS8-9.x.x KhTlok Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This Font was designed by Tep Sovichet (it4ug.net)
+Homepage: https://www.facebook.com/cara.coco.9?fref=ts
+Maintainer: LongApple <https://www.facebook.com/cara.coco.9?fref=ts>
+Author: TepSovichet&LongApple <https://www.facebook.com/sovichet.tep?fref=ts>
+Section: KhmerFonts Style
+Depends: firmware (>= 8.0) 
+Filename: ./boxes/KhmerTlok.deb
+Size: 447334
+MD5sum: 03dd19c2284601ad305631235d6ad91e
+
+Package: longapple.github.io.iOS9OldWriteHand
+Name: iOS9.x.x OldWriteHand Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This fonts was created by ហ៊ុល ហ៊តហាប់.
+Homepage: https://www.facebook.com/cara.coco.9?fref=ts
+Maintainer: LongApple <https://www.facebook.com/cara.coco.9?fref=ts>
+Author: LongApple&ហ៊ុល ហ៊តហាប់ <https://www.facebook.com/hul.houthhab?fref=ts>
+Section: KhmerFonts Style
+Depends: firmware (>= 9.0) 
+Filename: ./boxes/KhmerWrite9.deb
+Size: 59814
+MD5sum: e9fe6216db072940e099924b7512d3cb
+
+Package: longapple.github.io.iOS9CNHand
+Name: iOS9.x.x CNHand Fonts
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This fonts was created by MiechChamnan.
+Homepage: https://www.facebook.com/cara.coco.9?fref=ts
+Maintainer: LongApple <https://www.facebook.com/cara.coco.9?fref=ts>
+Author: LongApple&MiechChamnan <https://www.facebook.com/cara.coco.9?fref=ts>
+Section: KhmerFonts Style
+Depends: firmware (>= 9.0) 
+Filename: ./boxes/CNHand9.deb
+Size: 41182 
+MD5sum: 8761789b76ad56dc87bab0a863fbd176
